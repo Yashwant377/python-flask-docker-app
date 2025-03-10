@@ -60,4 +60,4 @@ requirements.txt # Python dependencies
 
 ## Maintainer
 
-Yashwant Kumar Mahto - [yashwantmahto@gmail.com]
+Yashwant Kumar Mahto - [yashwantmahto333@gmail.com]
